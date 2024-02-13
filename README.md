@@ -28,6 +28,3 @@ sl = Sleep("together")
 sl.run()
 ```
 
-![banners](https://github.com/axyratio/axyratio.github.io/assets/159877997/2bdbbd94-ef54-469f-bed5-2793f93b51cb)
-
-
