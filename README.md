@@ -7,5 +7,5 @@
 
 กิตติพงษ์ อุส่าห์
 
-![banner](https://www.buymeacoffee.com/kittiphong92)
+[banner](https://www.buymeacoffee.com/kittiphong92)
 
