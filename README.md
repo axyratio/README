@@ -1,5 +1,5 @@
 
-![[download banner](https://picsum.photos/800/250)](https://www.buymeacoffee.com/kittiphong92)
+![[banner](https://picsum.photos/800/250)](https://www.buymeacoffee.com/kittiphong92)
 
 # สมุดบันทึก
 
