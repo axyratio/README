@@ -15,5 +15,14 @@ git add
 git commit
 ```
 
+if you sleep
+
+```
+from sleep import Sleep
+
+sl = Sleep(hours="together")
+sl.run()
+```
+
 
 
