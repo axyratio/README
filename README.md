@@ -20,7 +20,7 @@ if you sleep
 ```
 from sleep import Sleep
 
-sl = Sleep(hours="together")
+sl = Sleep("together")
 sl.run()
 ```
 
