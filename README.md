@@ -1,2 +1,1 @@
-# README
-about me
+# KITTIPHONG
