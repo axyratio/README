@@ -7,12 +7,15 @@
 
 กิตติพงษ์ อุส่าห์ 66114540102
 
-## section 2
+## git command
 
 ```
 git status
-git add
-git commit
+git add .
+git commit -m "Add all my files"
+git remote add origin https://github.com/yourusername/your-repo-name.git
+git pull origin main | master
+git push origin main | master
 ```
 
 if you sleep
