@@ -10,7 +10,11 @@
 ## git command
 
 ```
+# check your status
 git status
+
+# start command
+git init
 git add .
 git commit -m "Add all my files"
 git remote add origin https://github.com/yourusername/your-repo-name.git
