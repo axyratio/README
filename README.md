@@ -22,6 +22,12 @@ git pull origin main | master
 git push origin main | master
 ```
 
+## git config
+```
+gitconfig --global user.name "axyratio"
+git config --global user.email "kittiphong.u-.66@ubu.ac.th"
+```
+
 ## if you sleep
 
 ```
